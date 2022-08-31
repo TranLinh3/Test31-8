@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Admin\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\Admin\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\GeometryExample.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\GeometryExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\GeometryExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\Admin\source\repos\Test\Test\obj\Debug\Test.pdb
